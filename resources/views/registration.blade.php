@@ -17,7 +17,7 @@
                     <tr>
                         <td align="center" style="padding-bottom: 20px;">
                             <h1 style="color: #333333; font-size: 28px; margin: 0;">
-                                Cloud Computing 2025
+                                Cloud Computing 2025 Registration
                             </h1>
                             <p style="color: #777777; font-size: 14px; margin: 4px 0 0;">
                                 Registration Confirmation

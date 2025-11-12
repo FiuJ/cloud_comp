@@ -42,7 +42,7 @@
             @endif
             
             <div class="text-center space-y-1">
-                <h1 class="text-3xl font-bold text-gray-900">Cloud Computing 2025</h1>
+                <h1 class="text-3xl font-bold text-gray-900">Cloud Computing 2025 NEW</h1>
                 <p class="text-gray-600 text-lg">Registration Form</p>
             </div>
             
